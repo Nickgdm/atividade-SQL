@@ -38,6 +38,35 @@ Praticar consultas relacionais e validação de dados por meio de:
 
 - `Atividade SQL.sql` — contém as oito consultas propostas e suas instruções.
 
-## Observações
+## Estrutura do projeto
 
-Este repositório é um exercício educacional de consultas SQL. Ele não contém, por si só, o arquivo de banco de dados; a base Chinook deve ser preparada separadamente.
+```text
+atividade-SQL/
+├── Atividade SQL.sql
+└── README.md
+```
+
+## Desafios práticos
+
+O exercício propõe responder a oito perguntas com consultas SQL. Os principais desafios são combinar tabelas relacionadas, filtrar registros, agrupar dados e produzir resultados ordenados que respondam ao enunciado.
+
+## Boas práticas adotadas
+
+- Comentários que relacionam as consultas aos enunciados.
+- Uso de aliases para tornar consultas com junções mais legíveis.
+- Separação das consultas por objetivo.
+- Execução e validação dos resultados em um banco compatível com o esquema utilizado.
+
+## Aprendizados
+
+Esta atividade permitiu praticar consultas SQL para selecionar, filtrar, ordenar e agrupar registros, além de relacionar tabelas com junções (`JOIN`). Também reforçou o uso de funções de agregação, como `COUNT`, e de filtros textuais para investigar e validar dados.
+
+## Considerações finais
+
+O projeto é um exercício educacional de consultas SQL. Ele não contém, por si só, o arquivo do banco de dados; a base Chinook deve ser preparada separadamente. A compatibilidade das consultas depende do SGBD utilizado.
+
+---
+
+## Formação
+
+Atividade desenvolvida durante a formação profissionalizante em **Quality Assurance (QA) pela EBAC — Escola Britânica de Artes Criativas e Tecnologia**.
