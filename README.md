@@ -57,7 +57,7 @@ O exercício propõe responder a oito perguntas com consultas SQL. Os principais
 - Separação das consultas por objetivo.
 - Execução e validação dos resultados em um banco compatível com o esquema utilizado.
 
-## Aprendizados
+## 📚 Aprendizados
 
 Esta atividade permitiu praticar consultas SQL para selecionar, filtrar, ordenar e agrupar registros, além de relacionar tabelas com junções (`JOIN`). Também reforçou o uso de funções de agregação, como `COUNT`, e de filtros textuais para investigar e validar dados.
 
@@ -67,6 +67,6 @@ O projeto é um exercício educacional de consultas SQL. Ele não contém, por s
 
 ---
 
-## Formação
+## 🎓 Formação
 
 Atividade desenvolvida durante a formação profissionalizante em **Quality Assurance (QA) pela EBAC — Escola Britânica de Artes Criativas e Tecnologia**.
