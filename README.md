@@ -1,16 +1,13 @@
-╔══════════════════════════════════════════════════════╗
-║           EXERCÍCIOS DE SQL — BANCO CHINOOK           ║
-╚══════════════════════════════════════════════════════╝
-
+<pre>
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     EXERCÍCIOS DE SQL — BANCO CHINOOK                                   ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+</pre>
 Projeto de estudo de consultas SQL desenvolvido no contexto da formação em Quality Assurance (QA). O arquivo `Atividade SQL.sql` reúne exercícios para explorar dados de artistas, álbuns, músicas, gêneros e clientes.
-
-══════════════════════════════════════════════════════
 
 ## Sobre o projeto
 
 A atividade propõe consultas para investigar e validar dados relacionais, utilizando filtros, ordenação, junções e agregações.
-
-══════════════════════════════════════════════════════
 
 ## Objetivos
 
@@ -25,23 +22,17 @@ Praticar consultas relacionais por meio de exercícios como:
 - Agrupar e contar músicas por gênero.
 - Pesquisar títulos de músicas que contenham a palavra `Love`.
 
-══════════════════════════════════════════════════════
-
 ## Tecnologias
 
 - SQL
 - Banco de dados compatível com o esquema Chinook, com tabelas como `Artist`, `Album`, `Track`, `Genre` e `Customer`
 
-══════════════════════════════════════════════════════
-
-## Pré-requisitos
+# Pré-requisitos
 
 - Um sistema gerenciador de banco de dados (SGBD) com uma cópia do banco Chinook carregada.
 - Um cliente SQL compatível com o SGBD escolhido.
 
 A sintaxe pode precisar de ajustes dependendo do SGBD utilizado.
-
-══════════════════════════════════════════════════════
 
 ## Como executar
 
@@ -50,13 +41,9 @@ A sintaxe pode precisar de ajustes dependendo do SGBD utilizado.
 3. Execute as consultas individualmente e confira os resultados.
 4. Compare os resultados com os comentários que descrevem cada exercício.
 
-══════════════════════════════════════════════════════
-
 ## Arquivo principal
 
 - `Atividade SQL.sql`: contém oito consultas propostas e suas instruções.
-
-══════════════════════════════════════════════════════
 
 ## Estrutura do projeto
 
@@ -66,13 +53,9 @@ atividade-SQL/
 └── README.md
 ```
 
-══════════════════════════════════════════════════════
-
 ## Desafios práticos
 
 O exercício propõe responder a oito perguntas com consultas SQL. Os principais desafios envolvem combinar tabelas relacionadas, filtrar registros, agrupar dados e produzir resultados ordenados que respondam aos enunciados.
-
-══════════════════════════════════════════════════════
 
 ## Boas práticas
 
@@ -81,22 +64,16 @@ O exercício propõe responder a oito perguntas com consultas SQL. Os principais
 - Separar as consultas por objetivo.
 - Executar e validar os resultados em um banco compatível com o esquema utilizado.
 
-══════════════════════════════════════════════════════
-
 ## Aprendizados
 
 A atividade permite praticar consultas SQL para selecionar, filtrar, ordenar e agrupar registros, além de relacionar tabelas com junções (`JOIN`). Também aborda funções de agregação, como `COUNT`, e filtros textuais para investigar e validar dados.
 
-══════════════════════════════════════════════════════
-
 ## Considerações finais
 
 Este projeto é um exercício educacional de consultas SQL. O arquivo do banco de dados não está incluído no repositório e a base Chinook deve ser preparada separadamente. A compatibilidade das consultas depende do SGBD utilizado.
-
-══════════════════════════════════════════════════════
-
-## Formação e natureza da atividade
-
-Este projeto foi desenvolvido como uma **atividade facultativa** no contexto dos estudos de Quality Assurance (QA), durante a formação da EBAC — Escola Britânica de Artes Criativas e Tecnologia. Seu objetivo é praticar e consolidar conhecimentos de SQL e validação de dados.
-
-══════════════════════════════════════════════════════
+<pre>
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║       Atividade desenvolvida durante a formação profissionalizante em Quality Assurance (QA) pela       ║
+║                     EBAC — Escola Britânica de Artes Criativas e Tecnologia                             ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+</pre>
